@@ -9,3 +9,5 @@ $manifest['description'] = __( 'Enables the possibility to add the Google Analyt
 $manifest['version'] = '1.0.0';
 $manifest['display'] = true;
 $manifest['standalone'] = true;
+
+$manifest['github_update'] = 'ThemeFuse/Unyson-Analytics-Extension';
